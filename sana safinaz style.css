@@ -1,0 +1,142 @@
+.navbar{
+    background-color: #03DAC6 !important;
+    
+    
+ }
+ .nav-link{
+     font-weight: bold;
+ }
+ .navbar-nav :hover{
+     color:white !important;
+ }
+ .collapse{
+    
+     justify-content: space-around !important;
+ }
+ .fa-shopping-cart{
+     font-size: 32px !important;
+     justify-content: space-around !important;
+ }
+ .fa-home,.fa-user-circle-o,.fa-comments{
+     font-size: 32px !important;
+ }
+.flash-sale{
+    margin-top: 80px;
+      
+   
+   
+}
+.flash-sale h1{
+    color: #03DAC6;
+    text-align: center;
+    
+}
+
+@media only screen and (max-width: 1200px) {
+    .flash-sale{
+       
+      color:#03DAC6;
+      background-color:white;
+      text-align: center;
+    }
+  }
+  
+.shop-more-button{
+    float: right;
+    
+}
+.shop-more a{
+    margin-left: 400px;
+    margin-top: 10px;
+}
+
+
+@media only screen and (max-width: 1200px) {
+    .shop-more{
+      width: 100%;
+      color:#03DAC6;
+     
+        
+      
+    }
+  }
+.btn-color{
+    background-color: #03DAC6 !important ;
+    width: 60%;
+    
+      }
+      
+@media only screen and (max-width: 1200px) {
+    .h{
+        
+      
+      background-color:#03DAC6;
+      justify-content: center;
+       
+    }
+  }
+  
+.btn-color:hover{
+    
+    background-color: rgb(26, 200, 206) !important;
+  color: white !important;
+}
+.si-ze{
+    margin-bottom: 10px;
+}
+.g{
+   text-align: center;
+   background-color:white;
+   width: 20%;
+   box-shadow:lightgray 4px 4px 4px 4px ;
+   margin-top: 20px;
+}
+.o{
+   justify-content: space-around;
+}
+@media screen and (max-width:1200px){
+   .g{
+       width: 48%;
+       margin-top: 30px;
+   }
+}
+
+.foat-er{
+    background: black;
+    margin-top: 200px;
+    
+  }
+  .faoter-line{
+    justify-content: space-between;
+  }
+  .histoory{
+    color: #03DAC6;
+  }
+  .coppy-right{
+    background-color: #03DAC6;
+    color: white;
+    text-align: center;
+    
+  }
+  
+
+  
+  
+  
+@media only screen and (max-width: 1200px) {
+  .faoter-line{
+     
+   justify-content: center;
+   text-align: center;
+ 
+  }
+}
+ 
+@media only screen and (max-width: 1200px) {
+    .foat-er,.coppy-right{
+       width: 100%;
+     justify-content: center;
+     text-align: center;
+   
+    }
+  }
